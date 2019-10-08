@@ -14,7 +14,32 @@ project 1 - A Random Quote Generator
   Add the `year` property to at least one object in the array.
   Use console.log() to log your array of quotes to the console.
 ***/
+let quotes = [
+  {
+    quote: "Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks.",
+    source: "Stephan Hawking",
+  },
 
+  {
+    quote: "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.",
+    source: "Elbert Hubbard",
+  },
+
+  {
+    quote: "I'm having nightmares that i forgot to back up my system",
+    source: "Richard Hendricks",
+  },
+
+  {
+    quote: "Science and technology revolutionize our lives, but memory, tradition and myth frame our response.",
+    source: "Arthur M. Schlesinger",
+  },
+
+  {
+    quote: "Every human has four endowments - self awareness, conscience, independent will and creative imagination. These give us the ultimate human freedom... The power to choose, to respond, to change.",
+    source: "Stephen Covey",
+  },
+];
 
 
 
