@@ -32,7 +32,7 @@ project 1 - A Random Quote Generator
    - Call the `getRandomQuote` function and assign it to a variable.
    - Create a variable for the HTML string and set it equal to an empty string.
    - Use the HTML template in the instructions or the markup in the index.html file, AND 
-     the random quote vairable to build your HTML string.
+     the random quote variable to build your HTML string.
    - Add the quote and source section to the HTML string.
    - Use an if statement to check for the citation property before adding it to the HTML string.
    - Use an if statement to check for the year property before adding it to the HTML string.
